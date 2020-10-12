@@ -14,4 +14,4 @@ Google palystore apps is an kaggle's project. The main task of the project is to
 # OUTCOMES
 	▪ Education, evenets, personalization and beauty apps has more rating
 	▪ Lifestyle, medical, finance and family apps has more price
-  ▪ Communication, game and social apps has more reviews
+  	▪ Communication, game and social apps has more reviews
