@@ -11,7 +11,7 @@ Google palystore apps is an kaggle's project. The main task of the project is to
 	▪ Normalized the data by converting and filled the missing categorical data with mode
 	▪ Group the data with respect to category and visualized the data using matplotlib 
 	
-# OUTCOMES
+# Insights 
 	▪ Education, evenets, personalization and beauty apps has more rating
 	▪ Lifestyle, medical, finance and family apps has more price
   	▪ Communication, game and social apps has more reviews
